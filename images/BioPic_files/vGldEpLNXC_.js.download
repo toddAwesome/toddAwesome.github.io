@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("CometGroupMembersBlockedRootQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="7806775066077405"}),null);
+__d("MediaTaggingGating",["cr:10363","gkx"],(function(a,b,c,d,e,f,g){"use strict";function a(){return c("gkx")("6128")}g.getIsTaggingPolishEnabled=a;g.CometContextualLayerAnchorRoot=b("cr:10363")}),98);
